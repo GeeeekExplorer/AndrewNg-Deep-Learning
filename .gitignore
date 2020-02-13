@@ -1,0 +1,13 @@
+**/.ipynb_checkpoints
+**/__pycache__
+Convolutional Neural Networks/week2/ResNets/ResNet50.h5
+Convolutional Neural Networks/week3/Car detection for Autonomous Driving/model_data/yolo.h5
+Convolutional Neural Networks/week4/Neural Style Transfer/pretrained-model/imagenet-vgg-verydeep-19.mat
+Sequence Models/readonly/glove.6B.50d.txt
+Sequence Models/readonly/Triggerword Detection/XY_dev/X_dev.npy
+Sequence Models/readonly/Triggerword Detection/XY_train/X.npy
+Sequence Models/Week 2/Emojify/data/glove.6B.50d.txt
+Sequence Models/Week 2/Word Vector Repressiontation/data/glove.6B.50d.txt
+Sequence Models/Week 3/Trigger word detection/XY_dev/X_dev.npy
+Sequence Models/Week 3/Trigger word detection/XY_train/X.npy
+
